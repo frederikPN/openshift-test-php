@@ -1,1 +1,1 @@
-echo "My first PHP openshift deployment!";
+<?php echo "My first PHP openshift deployment!"; ?>
